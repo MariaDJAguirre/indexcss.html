@@ -1,0 +1,18 @@
+h1{
+    background-color: thistle;
+    color: olive;
+    text-align: left;
+}
+
+h2{
+    background-color: aliceblue;
+    color:navy;
+    text-align: center;
+}
+
+h3{
+    background-color: hotpink;
+    color:whitesmoke;
+    font-style: italic;
+    text-align: right;
+}
